@@ -1,0 +1,12 @@
+[package]
+name = "webpack-rust-wasm"
+version = "0.1.0"
+authors = ["Elias E. del Real <pixelshader@outlook.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+
+[features]
+default = []

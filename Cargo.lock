@@ -1,0 +1,4 @@
+[[package]]
+name = "webpack-rust-wasm"
+version = "0.1.0"
+
