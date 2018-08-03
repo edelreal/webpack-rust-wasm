@@ -25,6 +25,7 @@ module.exports = {
         }, {
           loader: 'rust-native-wasm-loader',
           options: {
+            gc: true,
             release: true
           }
         }]
