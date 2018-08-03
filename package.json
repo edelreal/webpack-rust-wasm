@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/edelreal/wepback-rust-wasm/issues"
   },
-  "homepage": "https://github.com/edelreal/wepback-rust-wasm#readme"
+  "homepage": "https://github.com/edelreal/wepback-rust-wasm#readme",
+  "devDependencies": {
+    "webpack": "^4.16.4"
+  }
 }
