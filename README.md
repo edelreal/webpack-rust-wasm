@@ -20,10 +20,12 @@ rustup target add wasm32-unknown-unknown --toolchain nightly
 cargo install --force --git https://github.com/alexcrichton/wasm-gc
 ```
 
-## Run a build
-Run a development build, and start webpack-dev-server:
+## Install Node packages
+```npm install```
+
+## Build
+Run a development build, and start webpack-dev-server (which will launch a browser):
 ```
-npm install
 npm start
 ```
 
