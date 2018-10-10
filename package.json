@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edelreal/wepback-rust-wasm.git"
+    "url": "git+https://github.com/edelreal/webpack-rust-wasm.git"
   },
   "keywords": [
     "webpack",
@@ -20,9 +20,9 @@
   "author": "Elías E. del Real",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/edelreal/wepback-rust-wasm/issues"
+    "url": "https://github.com/edelreal/webpack-rust-wasm/issues"
   },
-  "homepage": "https://github.com/edelreal/wepback-rust-wasm#readme",
+  "homepage": "https://github.com/edelreal/webpack-rust-wasm#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.19",
     "html-webpack-plugin": "^3.2.0",
