@@ -1,5 +1,5 @@
 {
-  "name": "wepback-rust-wasm",
+  "name": "webpack-rust-wasm",
   "version": "0.1.0",
   "description": "Experiment with Webpack, Rust, and Wasm.",
   "main": "index.js",
