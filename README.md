@@ -1,4 +1,4 @@
-# wepback-rust-wasm
+# webpack-rust-wasm
 Short starter project using Webpack 4, Rust, and Wasm, based on the example at https://github.com/yamafaktory/rust-wasm-webpack and documentation at https://github.com/dflemstr/rust-native-wasm-loader
 
 # Setup
