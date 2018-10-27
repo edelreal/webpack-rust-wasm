@@ -1,5 +1,5 @@
 {
-  "name": "webpack-rust-wasm",
+  "name": "webpack-rust-wasm-kickstart",
   "version": "0.1.0",
   "description": "Experiment with Webpack, Rust, and Wasm.",
   "main": "index.js",
